@@ -1,0 +1,23 @@
+body{
+	background-color: #FAFAFA;
+	}
+
+#loginbody{
+	background-image: url('./Entrepreneurship.jpg');
+	background-size: cover;
+
+}
+#login{
+	height:50vh;
+	padding: 3%;
+	margin-top: 20%;
+	background-color: rgba(255,255,255,0.7);
+}
+
+.card{
+	border: 2px solid red;
+
+}
+.card:hover{
+	background-color: rgba(255,255,200,0.8);
+}
