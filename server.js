@@ -13,7 +13,7 @@ var bodyParser = require('body-parser')
 const PORT = process.env.PORT || 9000;
 //*************test apiai****************//
 const apiai = require('apiai');
-const appbot = apiai("5fd7b4b8120141bcbbc0da1701847524");
+const appbot = apiai("id_of_your_project");
 const localStorage = require('localStorage')
 //****************************************//
 //***********************//
